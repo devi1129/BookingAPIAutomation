@@ -35,7 +35,7 @@ Make sure you have the following installed:
 
 ## Getting Started
 
-### 1. Clone the Repository
+### Clone the Repository
 
 Clone the repository to your local machine:
 
