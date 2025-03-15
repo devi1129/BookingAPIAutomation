@@ -16,7 +16,7 @@ This project automates the testing of **Hotel Booking API** endpoints to ensure 
 
 - **Java 8+**: The programming language used for the automation framework.
 - **Rest Assured**: A Java library for testing RESTful APIs.
-- **Cucumber**: A BDD framework for writing test scenarios in natural language.
+- **Cucumber**: A BDD framework for writing test scenarios.
 - **TestNG**: A testing framework used for managing and running tests.
 - **Excel (Apache POI)**: Used for data-driven testing through Excel files.
 - **ExtentReports**: For generating rich, interactive HTML test reports.
@@ -31,9 +31,7 @@ Make sure you have the following installed:
 - **Java JDK 8+**: [Download Java](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
 - **Apache Maven**: [Download Maven](https://maven.apache.org/download.cgi)
 - **IDE (IntelliJ IDEA/Eclipse)**: For writing and running the tests.
-- **ChromeDriver (or WebDriver)**: For HTTP requests and tests.
 - **Log4j**: Logging configuration is already included in the `log4j.properties` file.
-- **Test Data**: The project requires Excel and JSON files for data-driven tests.
 
 ## Getting Started
 
