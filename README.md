@@ -41,4 +41,3 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/hotel-booking-api-automation.git
-cd hotel-booking-api-automation
